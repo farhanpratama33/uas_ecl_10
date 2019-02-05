@@ -1,7 +1,11 @@
 Uas_E-Commerce-Lanjut
+
 Nama : Farhan Pratama Azhuri,Kelas : ECL-10, Nim : 10515153
+
 Fungsi web program untuk mengatur data seperti data siswa kelas dll seperti fungsi input(create),view(read),edit(updating).hapus(delete)
-Cara Pengunaan Import database db_laravel_siswa ke php my admin lalu login Username : admin Password : admin
+Cara Pengunaan
+
+Import database db_laravel_siswa ke php my admin lalu login Username : admin Password : admin
 
 
 Step by step penyusunan crud laravel 
